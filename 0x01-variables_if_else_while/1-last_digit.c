@@ -3,7 +3,8 @@
 #include <time.h>
 
 /**
- * main - A program that prints the last digit of a randomly generated number and determines whether it is 5,6 or zero
+ * main - A program that prints the last digit of a randomly generated number
+ * and determines whether it is 5,6 or zero
  * Return: 0 (Successful)
  */
 
