@@ -4,13 +4,13 @@
 
 /**
  * main - A program that determines if a number is positive, negative or zero
- * Returns: 0 (Successful)
+ * Return: 0 (Successful)
  */
 
 int main(void)
 {
 	int n;
-	
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
